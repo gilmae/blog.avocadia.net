@@ -1,0 +1,19 @@
+
+@import url('/style.css');
+:root {
+    --grid-gap: 4vw;
+    --max-width: 92rem;
+    --spacing-xx-small: .125rem;
+    --spacing-x-small: .25rem;
+    --spacing-small: .5rem;
+    --spacing: .75rem;
+    --spacing-medium: 1rem;
+    --spacing-large: 1.5rem;
+    --spacing-x-large: 2rem;
+    --spacing-xx-large: 3rem;
+
+    --icon-size: 32px;
+    --icon-size-large: 64px;
+    --icon-size-x-large: 128px;
+    --icon-size-small:16px;
+}

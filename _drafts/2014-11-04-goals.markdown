@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Goals"
+date: 2014-11-04
+comments: true
+precis: Human cannot live on today alone
+categories: life
+published: false
+featured:
+  image: http://phlearn.com/wp-content/uploads/2012/12/405GoalsPlayScreen.jpg
+  author: from phlearn.com
+---
+
+In the spirit of knowing that people who know will just roll their eyes and say "midlife crisis", this post is not because I am turning 40 on Saturday. I am, you know. That's not what prompted this. If anything, this is a late one-third-life crisis; I'm a late bloomer.
+
+There are two aphorisms that are basically saying the same thing that I happen to like. [Steve Jobs](http://en.wikipedia.org/wiki/Steve_Jobs) used to say he wanted to put a ding in the universe. And the slightly less obscure educator [Horace Mann](http://en.wikipedia.org/wiki/Horace_Mann) said, in a commencement message, "be ashamed to die until you have won some victory for humanity." I like both of these because they are pretty close to saying the same thing, and because I like to think I could actually do something meaningful. I am pretty sure I couldn't, like, become Batman if I really worked out hard for five years and clean up the New South Wales <strike>ALP</strike> Liberal Party[^1]. I could probably still achieve something, though, that would allow me to meet the people I admire and not feel like I have to slink away. I have liked those two quotes for many years now.
+
+Crucially however, I haven't really done anything about living up to them. I've fantasised about writing a novel without putting in the hard work to become a quality writer[^2] or to deepen my soul sufficiently that anything I did write was likely to have much of an emotional impact on the reader, let alone be meaningful. At any rate, what a cliche. But you gotta have goals, yeah? You have to want to do something with your life, certainly after the inner fire of your twenties and the residual embers of your thirties have died all the way back.
+
+I'm about 85% sure I will leave my current job in the next three months. A lot of reasons. I don't trust my peers. I don't trust the leadership team overly much. I am convinced they, the leadership team, have no respect for many the professions they employ people to execute; certainly not mine or any of the other project delivery oriented professions. They will gladly treat every consumer as a commodity if they could just imagine something bigger than their lilliputian dreams of selling another email direct marketing blast or another SEO program. They're not bad people though. They are just boring.
+
+I like the platform I help build though. It's an SMS platform, if you must know. My appreciation of it has waxed and waned over the years. Initially I hated it because it was a decade-old mess when it first got dumped on my team, a disaster waiting to happen. Even after it was fixed by the efforts of my team despite, or because of, my efforts to have nothing to do with it, I was still wary of it. I was thinking small though, like the short-term agency developer I'd been for so long. Even for months after a talk with a good friend and manager before he piked off to a foreign country[^3] about how I wanted to work on something less ephemeral, something that people actually use, I still didn't appreciate that this thing was kind of what I was describing. I didn't really see it until it was almost all I had left. Then I got religion. I love the idea of the scale of this thing. Both the scale of it's potential as a tool, and the more prosaic scale of raw numbers that this thing could potentially achieve.
+
+Yet, I refer again to my 85% certainty that I will leave that job. Despite this appreciation of what I have. Despite my doubts that I could again have something with so much potential fall into my lap so fortuitously. Despite the fact that beyond my capacity to comprehend their confusion, people at this company still persevere in believing I am better than I am[^4]. Because this well of potentiality is so dimly understood by the company as a whole that they think it should be kept on a level scarcely above maintenance mode. They don't really want to develop it any further, and they only ever do grudgingly so it can catch up to where their competitors were five years ago.
+
+But if I could just get them to look up and see the sky and wonder if maybe, just maybe, they could reach up there and give it a tap, leave a mark in it...what would I aim for?
+
+It's not rhetorical. I think I know what I would aim for. John Siracusa said something on Accidental Tech Podcast while discussing the all-but-death of App.net, that the only way we can get a Twitter like service that is as much a utility as water and phone service, to pry it from the already dead hands of Twitter Inc. is to embed it into something else that already makes the money to support the platform without needing to sell it's users to the sharks. I would love to be able to do that with this SMS platform. We already have more CPU cycles than we can actually use, for 95% of the day. We're a bursty kind of service. Lots of CPU cycles sitting idle until a big blast goes out. The business goals are two-fold, really. To build up our ability to use those cycles in bigger and bigger bursts, and to sell more and more of those cycles. But honestly, unless we become an empire upon which the sun never sets on our client base, we will always have headroom for most hours of the day.
+
+My big dream is to build up the infrastructure of this SMS platform so sufficiently that I could slide - not a product - but an implementation of a Twitter like protocol into the overhead, and no one would even notice and we wouldn't bother to charge for it.
+
+I don't need the glory of defining the protocol. I just want to create something everyone wants to use, and then not ask for anything in return.
+
+[^1]: Nah, I'm kidding. The ALP as well.
+
+
+[^2]: You're soaking in it.
+
+
+[^3]: South Australia is far enough away and backward enough to be considered foreign, right?
+
+[^4]: An ex-googler today told me my skill set could take me far at Google. Granted, he was an SEO guy; he's like those people who endorse you on LinkedIn for skills they couldn't possibly have any comprehension of beyond the surface impressions they might garner from the first sentence on wikipedia. I'd hate to work at Google. People I respect, even one person I know personally, work there. I would hate myself for it. Google Is Evil.

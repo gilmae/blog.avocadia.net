@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Oh Cino, am I really doing this?"
+date: 2014-01-26 22:21
+comments: true
+categories: games adventure_capital
+precis: Yes, I am
+featured:
+  image: http://farm1.staticflickr.com/93/240755676_8465ec046a_o_d.jpg
+  author: Omer van Kloeten
+  author_url: http://www.flickr.com/photos/omervk/240755676/
+
+---
+
+At the risk of this blog turnng into the [Adventure Capital](http://blog.avocadia.net/blog/2014/01/11/adventure-capital/) making of, it turns out I am going to write this damn thing. It's already made it off my local system out to [Github](https://github.com/gilmae/AdventureCapital).
+
+I doubt it will ever be more than a toy I play with occasionally, but if it were, that's almost certainly a prototype. Porting it to c# would give me more flexibility, such as mobile device apps. Ha! Look at me talk.

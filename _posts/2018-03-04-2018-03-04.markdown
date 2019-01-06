@@ -1,0 +1,38 @@
+---
+layout: post
+title: "2018-03-04"
+date: 2018-03-04 21:51
+comments: true
+categories: code media movies books tv
+precis: Mute; The Culture; old old code and terrible opinions.
+---
+
+
+## Mute
+They’re saying Charlie Brooker has announced that all Black Mirror episodes take place in a shared world. That doesn’t annoy or frustrate me, I can’t quite get agitated about it. But it leaves me a fraction more exhausted. Fandom exhausts me with its neediness, like a dog constantly going back to the bowl between meals just in case something it missed materialises.
+So I could have done without the scene tying _Mute_ to _Moon_, but all in all I recognise that it could have been much more contrived.
+Its pretty good but definitely flawed. Skarsgard is really good; Rudd was ok.  I don’t know how I feel about a constant stream of all-male casts in movies revolving around the murdered woman. Whatever I feel,  winking at the women-in-fridge trope was on the nose. And yeah, why the Moon connection? Did they not trust that Duncan Jones would have enough reputation to bring an audience?
+I preferred Moon but I think the critical reaction is harsh.
+
+## The Culture
+Speaking of fandom, I don’t believe Amazon, a rapacious capitalist organisation set on exploiting every aspect of humanity and sucking the human community dry to get a few more dollars into the pockets of a oligarchic few…
+
+I don’t believe that kind of vampire squid can possibly produce an adaption of The Culture books that doesn’t end up being basically Star Trek,
+
+So despite being leery of the news that , [the vampire squid will be creating Star Trek by another name](https://www.space.com/39795-amazon-making-the-culture-sci-fi-tv-series.html), I started reading the books again. I skipped _Consider Phlebas_ but remembered why I liked _Player of Games_ so much. I’d forgotten most of _Use of Weapons_, and I just stumbled across a detail in _Excession_ I had never noticed before, so that’s nice.
+
+## My Teen Diary
+Not quite my teen diary, but D had a joke about me finding and restoring the 2002-2006 version of this blog.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So <a href="https://twitter.com/gilmae?ref_src=twsrc%5Etfw">@gilmae</a> has resurrected an old blog. It’s the modern equivalent of reading your teen diary</p>&mdash; Donna (@randomknits) <a href="https://twitter.com/randomknits/status/969159970548690944?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+What I found was, hidden away in a folder, a zip pf the code from my blog engine. It was the first project of any size I created for myself. And the database is still siting out on my host, so I just took a snapshot and restored everything on my laptop. It was all broken, but getting it up and running again was a lot easier than I had anticipated - wasn’t the weekend long project I thought it would be, it was all over on Friday night.
+
+Yeah, baby. Friday night spent fixing 16 year old PHP code to make it work in v7. Rock on 🤘!
+
+Anyway, not a single character of the content will see the light of day. The worst bit was being reminded what I thought of Mark Latham. Ugh!
+
+## Scratch
+However, I have been writing things in PHP again. Partially because I am reacting to [Contempt Culture](https://blog.aurynn.com/contempt-culture) but I was also intrigued by another blog post, [Stop writing PHP like it’s 2009… – Florian’s Blog](https://florian-laplantif.com/2017/07/18/stop-writing-php-like-its-2009/). I can’t say that I am completely living up to that call to action - because I was also inspired by [Gary Bernhardt](https://www.destroyallsoftware.com/screencasts/catalog/routing-simple-requests) to start [writing a web framework from scratch](https://www.twitch.tv/garybernhardt/videos/all). 
+I was writing a simple reference site to test out the framework I created. I will still finish that, but I think I will try and re-build my old blog in this new framework.
+Because why not?

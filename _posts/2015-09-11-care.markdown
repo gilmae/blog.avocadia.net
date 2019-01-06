@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Care"
+date: 2015-09-11 09:01
+comments: false
+published: true
+categories: work life culture
+precis: I wish I could care less, but I don't.
+featured:
+  image: /images/posts/20150911/putThemOut.jpg
+  author:
+---
+
+
+I was at a meet up last night and a question was asked, who considers themselves a tech leader versus a people leader. It went about 1/3 the former and 2/3 the later. Nobody was asked who thought themselves neither, but a friend copped to thinking she is shit at both. I'm only just good enough at tech leadership to know how much I leave to desire, and not good enough at people leadership to have a good gauge on just how appallingly bad I am at it. Ok, that's the introvert and the imposter fear speaking. I'm actually pretty good at tech leadership, probably, if I trusted myself a bit more. I have been known to build trust and respect with people and help them get through shadows of valleys of death. I do need to work on my inability to maintain good cheer in the face of fools, and my willingness to be confrontational when the need comes.
+
+My friend also said she thinks she's leveraged an ability to fake it when it comes to people and tech. In the midst of redundancies where I work, I am quietly confident I am safe. A designated survivor. Partly because circumstances but partly because, I like to tell myself, of faith and trust in me. It's more than designated survivor though; when things get real, eyes often swivel my way. Far too often if you ask me. It's sure as hell not because I am shit hot, although in a small pond I'm a good sized fish. It's almost certainly because I care and I wear that on my sleeve. Well, really on my face and in my body language; it's rarely a secret when something has got on the wrong side of my caring.
+
+I put it to my friend that it's not faking it that got her to her amazing job. It's that she cares enough to fake it, otherwise known as trying to make it. There's plenty that won't, that'll just let it all wash over them. Caring: it's what drives you to do the best you can at you're doing. It's what gets you through the frictions. It's what lies at the root of passion, it's *why* you will allow yourself to suffer. And boy, how you will suffer. Your super-ego will use that care like a scourge if you've not yet yoked it the will of your sense of self.
+
+It is a powerful tool though. More generally useful than mere knowledge, in the same way as imagination is <sup><a name="fni1" href="#fn1">1</a></sup>. It's what you're looking for in interviews after separating the obviously unsuited. If let people see it in you, there's a lot of omissions and sins they're prepared to forget.
+
+----
+
+  1.<a name="fn1">&nbsp;</a>Knowledge transfer is technology humans have had since the savannah. There's a thousand speakers out there promising to imbue their audience with care and motivation, but I'd bet claiming a strike rate of as little as 1% would be an over-sell.
+
+  UPDATE: And as if summoned by my words, a giant douche appears. One weekend can change everything...if by everything he means the bank balances of everyone involved.
+
+  ![Tony Robbins is a liar](/images/posts/20150911/awful.jpg)<a href="#fni1">&#8617;</a>

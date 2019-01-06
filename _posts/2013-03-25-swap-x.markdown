@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Swap(x,y)"
+date: 2013-03-25 20:08
+comments: true
+categories: code work
+precis: A stupid coding question I ask in interviews
+featured:
+  image: http://farm6.staticflickr.com/5272/5872169307_e86e406041_b_d.jpg
+  author: Elliott Cable
+  author_url: http://www.flickr.com/photos/elliottcable/5872169307
+---
+My favourite code question in interviews is deceptively easy. I was asked it for my job at C4, and at the time I didn't really understand it. Nor did the guy who asked the question, for that matter, nut in the years since, I've gone over it a few times and have evolved it to be the first question I ask interviewees to code for me. It's just so useful.
+
+> Given two integer variables, x and y, swap their values.
+
+There are six answers to this question. Or at least I am familiar with six answers, there may well be others but I've never encountered them in the wild.
+
+These answers are, in ascending order of my happiness when given them:
+
+1. Call a method called Swap(). Don't laugh, I have been given that answer in total seriousness twice.
+2. I don't know.
+3. Start with x = x - y
+4. Start with x = x + y
+5. Start with x =x XOR y
+6. Use a temp variable
+
+Anything after I don't know is an acceptable answer.
+
+## <a name="temp_variable"></a>Use a temp variable
+
+    var tmp = x;
+    x = y;
+    y = tmp;
+
+When I see this, it allows me to ask for it to be done without a temp variable. I am quite happy to feed them the first line, "x = x + y", and see if they can finish it. If they do, I then ask them why this is not a very good solution. I am quite happy for them to answer that they wouldn't do it because of the risks, and obviously if they say what the risks are. I'll then ask if they could do it with bit operators.
+
+## <a name="arithmetic"></a>Arithmetic gymnastics
+
+    x = x + y;
+    y = x - y;
+    x = x - y;
+
+OR
+
+    x = x - y;
+    y = x + y;
+    x = y - x;
+
+I don't really care if you get the solution arithmetically correct, you've at least demonstrated you understand the principle.
+
+Starting within "x = x - y" makes me suspicious that they know the risks in "x = x + y" - integer overflow - but have forgotten the very same risk holds for this answer, but I give them the benefit of the doubt and just ask them about the risks. For either variant, I then ask them if they can think of a different way to do it that doesn't hold the same risks. They don't get a first line, but I am happy to give a hint, use bit operators.
+
+## Bit operators
+    x = x XOR y
+    y = x XOR y
+    x = x XOR y
+
+I then ask what are the risks in using this method, which are pretty narrow, I admit; that if x and y point to the same memory address, you in fact end up with the value set to 0, which unless you started with 0 is a bad result. Narrow, but if you're going to play with bit operators you better have an understanding of what the hell they do.
+
+And finally, if anyone makes it to the bit operator solution, the final question is, why is this not a good solution. If they come up blank on this, I know I am dealing with a cowboy. They are a cowboy, because the bit operators - and the arithmetic juggling for that matter - are less readable than using a temp variable, for absolutely no return at all. The coder is not getting any efficiency bonus, not optimising their code. The compiler is going to optimise the temp value out anyway, the compiler is going to optimise the whole thing better than the coder will. For no benefit, the fancy solutions end up making the code more obtuse.
+
+Ultimately, I am looking for a developer who answers with the temp variable, and can defend that answer. I am happy to go through the paths and get back there if they can continuously identify the issues with the other solutions, and I count that as only a little much less acceptable than sticking with it in the first place. The second best end point is any of the rest if the interviewee has managed to discuss the risks in any of the three non-temp variable solutions. The third best is any of the three without knowing the risks.
+
+If you don't know an answer, in all likelihood you are going to be rejected, but you could still recover. But really, even an under-grad should be able to answer with the temp variable solution after CS101, even if they don't necessarily understand that it is the only totally good answer for developers not working on micro controllers.
+
+The worst, and the answer that will always get you rejected immediately, is a Swap method. Even if you're joking. Interviews are a dangerous place for jokes; if that kind of rapport has been established, I suppose it is fine. But I do interviews with the filter questions at the start, and I'm not joking around because I'm looking to see if I should invest my time in the much more difficult and time consuming task of establishing if you will fit into the team. If you can get past the filter of code and theory questions, I'll try and establish a rapport that would probably involve some laughs. But before hand, I'm looking for an opportunity to get out of the room.
+
+To get out of the room. That sounds brutal and cold, and as if I don't think interviews are a good use of my time. But they are, they are an excellent use of my time if I am talking to a great candidate. If you're not a great candidate though, you aren't getting hired by me, so any time spent talking to you after I have made up my mind is just wasting your time. And if you are joking early on in the piece, I start thinking you're not taking the interview as seriously as I am.
+
+So, tell me you'd use a temp variable, and then defend the hell out of that answer.

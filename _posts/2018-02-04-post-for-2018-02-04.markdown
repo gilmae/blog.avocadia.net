@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Post for 2018-02-04"
+date: 2018-02-04 17:32
+comments: true
+categories: [work, media, tv]
+precis: Stuff from last week
+---
+
+This would probably work better if I wrote daily. Probably beyond my limitations.
+
+## Altered Carbon
+I am seven episodes into the show, so it’s clearly doing something right. 
+
+I really enjoyed the book. This is more or less the spirit of the book while not being a straight retread of the story. My favourite parts of the books were always the Quellisms, Falconer appeals to that part of me that is pretty sure I’m not a communist but is angry enough about our variably distributed crapsack world to  idly dream about revolution. So I was happy they managed to get Quellcrist into the show.
+
+----
+
+## North Sydney
+I no longer work in North Sydney. The product I work on was sold to another company, and they moved the team into new office space. I’m not a fan of North Sydney. I believe I will be adding to my list of Jobs I Don’t Want “Anything north of the bridge.”
+
+### New laptops
+Part of the move was replacing our aging (5ish years old) desktop computers with new laptops.  While I was setting up the laptop, I was musing...
+
+> New laptops for everyone in the team today. As I download and install all of the tools I use, I am wondering why software engineers expect employers to provide tools. Why don’t we have our own that meet our specific needs?
+
+[New Laptops](http://davidedgar.xyz/2018/01/30/new-laptops-for.html)
+
+It’s a thought that makes more sense for freelancers, I expect, and particularly those in the open source space. For employees working with the dotnet stack, providing my own copies of something like Visual Studio would be a hell of cost.
+
+I tried to work out what it would look like for my employer to just provide a pre-baked VM with the required tools, an I could just run that on my own laptop. That might work. EC2 instances with the toolset that the company _needs_ to provide for me to do my job probably works out more costly than the laptops. 
+
+I stopped thinking about it when I realised there really isn't a reason for me to even be using the costly full-on professional version of Visual Studio. The free version is actually all I really need. 
+
+Shhh, don’t tell the people shelling out thousands on me and my team.
+
+----
+
+(Why does my dog like to lick the soles of my feet? What's in it for her?)

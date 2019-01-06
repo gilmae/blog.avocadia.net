@@ -1,0 +1,45 @@
+---
+layout: post
+title: "2013: A review of how I entertained myself"
+date: 2014-01-03 18:30
+comments: false
+categories: retrospective books television games music
+precis: Because that's what matters
+featured:
+  image: http://farm8.staticflickr.com/7004/6405337533_5e6266dea1_b_d.jpg
+  author: spykster
+  author_url: http://flic.kr/p/aL22G2
+---
+
+
+## Books
+What a failure 2013 was in imagination and groundedness. After a final six weeks of 2012 rushing to read enough books to reach the level I set for my Goodreads challenge, as I mentioned [this time last year](http://blog.avocadia.net/blog/2013/01/01/reading-in-2012/). I even cheated, really, in reading [Matchless](https://www.goodreads.com/review/show/484824274) because it was short and would get my numbers up. Instead I resolved to set the challenge number much lower and to read "challenging" books, without ever really defining what that would mean, other than that Godel Escher Bach would be one.
+
+It's important to set goals. If you are going to set them, though, you also need to create a routine. I read a few books right at the beginning of January, [A Memory of Light](http://blog.avocadia.net/blog/2013/02/11/a-memory-of-light/) being one, but for the most part I didn't really put much thought into what these "challenging books" were that I would read. When I did finally pick one up, it was immediately before D and I went to NZ for a week and a half, and I certainly didn't do any reading while we were touring. In the end, I didn't read a single book I would have included in the "challenging" books list, and felt guilty for it. Enough so that I read barely any books at all in 2013. Six, according to [Goodreads](https://www.goodreads.com/review/list/1506188), plus the first three Laundry Files books which I don't seem to have added.
+
+I haven't set a reading goal at all this year. Whatever I read this year is what I read. I would like to read House of Leaves, the book I picked up in February 2013, and the some non-fiction. But to do so, I need to re-establish my reading routine, which I had been eroding steadily for the last three years with...
+
+## Television
+2013 was the year I finally strated cutting loose shows that had outlived their verve. True Blood and Sons of Anarchy should have been dismissed two seasons ago. Arguably True Blood should have had one season and been done with it, and Sons of Anarchy had an excellant second season, but everything afterwards has felt gratuitous tits and violence. The arcs for the characters were distorted for the sake of avoiding cast changes, and the story suffered. I understand Tara was killed in the last episode of the season just ended. She should have left at the end of season 3.
+
+I *should* have dumped Californication as well, again arguably after the first season. The first season was a fun anti-redemption story. Every other season was just a pripatic tit-fest that I kept watching because Hank Moody seems so cool. It's the last season in 2014 but I see no reason to watch it.
+
+On the other hand, I picked up some new shows, most of which will probably pick up again in 2014. Orphan Black and Vikings earlier in the year, and then House of Cards and Orange is the New Black in the later half. Vikings is the only one I'm not sure about. It was fun - the mass battle scenes particularly the shield wall on the beach are fantastic - and Travis Fimmel was a manic charisma. If they can maintain the alien feel of the Viking culture without slipping too far into soap opera, it'll be ok. Orphan Black is a no-brainer for a second season, it was easily the best new show of 2013 and Tatiana Maslaney should be showered in awards if there is any justice.
+
+2013 continued my streak of not being able to bring myself to watch Game of Thrones. It started right after I read the whole extant series as the most recent book was released. I was exhausted at the time and I remain unable to commit to binge the three seasons to date. I did binge Breaking Bad in 2013 and I'm glad I did because [Ozymandias](http://en.wikipedia.org/wiki/Ozymandias_\(Breaking_Bad\)) was the highlight of the year.
+
+## Games
+A long time friend from high school suggested I start playing a multiplayer game he was involved in, a game called Arcane Empires. I remain friends with him, despite this game being some really evil shit. It's one of those games that exists to have players become impatient and spend real world cash for in game currency to improve their position. There's something horrible about these games. They're barely even games, really. It's the grinding experience from World of Warcraft with no other mechanic to redeem it. Repetition of the same actions day in and day out. I eventually quit the game at the same time as my friend. I've since noticed he went on to play Clash of Clans, which I grant is at least not so egregiously monotonous.
+
+I instead went back to Civilisation 5 and Minecraft, completely avoiding the trap of playing long-running games with the same basic mechanics repeated over and over. I am finding I gravitate back and forth between those two, with more time on Minecraft in 2012 and more time on Civilisation in 2013. I almost flipped back to Minecraft in November, but then I finally caved and purchased Gods & Kings and it breathed enough new life into the game that I have stuck with it to work out the new mechanics. Not that I've ever been much good, hovering around the middle difficulties. In the first game I could play The MOngol Tactic[^1] on the highest difficulty, but that's not a winning strategy since they a) nerfed the Chariot, and b) ramped up the Unhappiness penalties for too many cities.
+
+I noticed on New Years Day while I was bored that I was playing Tiny Wings and trying to get to Island 8. I was trying to get to Island 8 while bored during a practice run of my team's end-of-sprint demo in January 2011. So yeah.
+
+## Music
+I'm old.
+
+I really enjoyed Lorde's album. Other than that, I'm old, and don't really encounter new music that readily. I spend more time on podcasts these days.
+
+So [Accidental Tech Podcast](http://atp.fm), Mike Duncan's new podcast [Revolutions](http://www.revolutionspodcast.com), [The Talk Show](http://www.muleradio.net/thetalkshow/), and [The Incomparable](http://5by5.tv/incomparable).
+
+ [^1]: Basically a Chariot Rush. Research up to Wheel and then just spew out chariots from every city and relentlessly attack each enemy city as you find it. By the time you need ships to get across to the next continent, you should have stolen Sailing from conquering an enemy city.

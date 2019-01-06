@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Swap 2"
+date: 2013-11-09 12:04
+comments: true
+categories: work code
+precis: A rethink on a stupid coding question
+featured:
+  image: http://farm3.staticflickr.com/2080/1793253282_b452706563_b_d.jpg
+  author: Sten Tamkivi
+  author_url: http://www.flickr.com/photos/seikatsu/1793253282/
+---
+
+Several months ago I talked about how I use a [request to write some simple code in interviews](/blog/2013/03/25/swap-x/) to try and gain some insight into how the interviewee thinks. Specifically I discussed the Swap(int,int) method and what I could discern from it, depending on how far the interviewee could go with it. In the months since then I've done a few interviews that have allowed me to develop the concept further, and so I am going to talk about some of my learnings.
+
+The interviews I was conducting earlier in the year were all phone interviews, and I think this makes it difficult to really do coding questions. They were phone interviews by necessity as the subjects were in Manila and I was in Sydney, trying to find a suitable subject to be the core of an offshore development team. I found that two thirds of the dozen or so candidates I interviewed were able to put together the [temp variable answer](/blog/2013/03/25/swap-x/#temp_variable) but only one was able to get the [arithmetic version](/blog/2013/03/25/swap-x/#arithmetic), and even then it took prompting with the first line. Most difficult was the inability to watch them working and thinking. The setup just didn't support it and is to my discredit that I didn't work to improve the situation by demanding a webcam be setup.
+
+The last four weeks I have been interviewing candidates in person. Despite being a better standard of candidate they have also struggled with the arithmetic solution, and certainly no-one has got it without being given the first line. Watching people struggle with it gave me a light bulb moment though. I actually don't want the kind of candidate that would come up with that piece of code, so why am I trying to make people write it? But how do I get to the ultimate insight unless I have them critique that piece of code?
+
+The whole point of the question is to determine if they are cowboys or engineers by having them look at a piece of cowboy code and give their opinion of it. So...why not just give them the code? The value I was finding in having people applying for a senior developer position write the temp variable approach was vanishingly slight, and conversely they were all struggling to get to the next, and in my eyes vital, step. So now I have it on the whiteboard when they walk in, see if they look at it and if they do what their reaction is. I do the introductions and ask them to discuss their current role for a few minutes. And then I ask them what the computation is in the function written on the board. Or maybe I ask them what they would call the function.
+
+    void X(ref int a, ref int b){
+        a = a + b;
+        b = a - b;
+        a = a - b;
+    }
+
+After I switched, within a couple of interviews I knew I had made the right move. I discovered I was able to observe other basic qualities of the candidate as they attempted to answer the question.
+
+The first is their approach to learning a new body of code. For example, my approach to learning what this piece of code would do is to run it with a couple of sets of values. You could probably make an educated guess after the first set of values were swapped and I'd probably hazard a guess at that point and then run it again quickly to make sure.
+
+The second is their ability to deal with uncertainty. My ability to cope with uncertainty has historically been pretty poor, and I have to make an effort to let stress and annoyance take over when I'm in that position. I'm looking for at least that, an effort made to push past the stress and at least try to come up with an answer.
+
+Incidentally, one of the candidates who did get the arithmetic solution when asked to write it, gave me an answer I had never considered before when I followed up with what was wrong with it. In my previous post I had pointed out that it was pointless to try and beat the compiler at memory management by skipping the temporary variable. However this candidate pointed out that the temp variable was the better optimisation anyway, because it was all assignment, and thus only memory. As soon as you have to do arithmetic computation you are using the CPU, and that will be slower.
+
+UPDATE
+I took him at face value because, well cause it sounded like it made sense and because I didn't really care about the particulars. It's not like I was hiring him to come in and write code an OS to be embedded in a 1980s wristwatch. But I should point out at least one person believes it is wrong.
+
+<div class="storify"><script src="//storify.com/gilmae/is-memory-assignment-really-better-than-calculatio.js"></script><noscript>[<a href="//storify.com/gilmae/is-memory-assignment-really-better-than-calculatio" target="_blank">View the story "Is memory assignment  really better than calculation?" on Storify</a>]</noscript></div>

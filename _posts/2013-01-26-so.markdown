@@ -1,0 +1,21 @@
+---
+layout: post
+title: "So yeah"
+date: 2013-01-26 21:34
+comments: true
+categories: books
+precis: Ooops, I haven't written anything for awhile.
+featured:
+  image: http://farm9.staticflickr.com/8429/7743995904_efcd325e87_b_d.jpg
+  author: Bjorn
+  author_url: http://www.flickr.com/photos/62005704@N00/7743995904/
+---
+So an unexpected pause during which I discovered the show-stopping flaw in my new blogging regime. When your blogging requires running `rake` from your command line to publish, your workflow will come to a crashing halt when your computer fails.
+
+That's no excuse for not having words ready to post. To tell the truth, it's not really even an excuse for not publishing; the software lives in my dropbox folder, so I could have setup a ruby environment on my work computer.
+
+While I was away, I read A Memory of Light. I have a ponderous review sitting in the cloud, slowly creeping towards a point. I also started reading The Wheel of Time from the beginning again. Book 1-3 + 80% of Book 4 in a fortnight. I should pause. I told myself when I started I wouldn't read them back to back, that I would spread them out, read one a fortnight or month, or the like. I've taken in too much too quickly, I can't get my eyes to do more than skim the pages, particularly in the Elayne and Nynaeve sections, not my favourite characters of all time. Pretty soon my dreams will involve immersive, if bizarre and chaotic imagery from the books.
+
+Last post I mentioned I would set a challenge of reading twelve books that would be out of the usual for me, with forms that I am unaccustomed to. I'm not sure how I am going with that. I have a list of a few possibilities, but at least one of them, the one I bought today and plan to start in the coming week, is only on the list because of anecdotal evidence of being an unusual form; House of Leaves. I've also got *Childe Roland to the Dark Tower Came*, *The Illiad*, Camus's *The Rebel*, *The Republic*, and *10 Print CHR$(255.5+RND(1)); : GOTO 10* on my list. I'm skeptical. To be fair, so are co-workers. One of them asked me what was the last book I read that I put down and was glad I had slogged through it because it was affecting. I took his point.
+
+It was *Zen and The Art of Motorcycle Maintenance*, and that was two years ago, but I did take his point.

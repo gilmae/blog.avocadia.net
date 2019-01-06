@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Reading in 2012"
+date: 2013-01-01 01:14
+comments: true
+categories: retrospective books
+precis: Some notes on the reading I did in 2012 
+featured:
+  image: http://farm4.staticflickr.com/3136/3145439264_282d8f8b08_b_d.jpg
+  author: danielito311
+  author_url: http://flic.kr/p/5MXcvs
+---
+In 2011 I had set myself a reading target of 40 books and made it fairly comfortably, despite a period of several weeks where I didn't read anything. In 2012 I decided to up the target to 50 books. That was my first mistake. I completed it, but at cost.
+
+
+Some stats though, because I may not be a statistician, but I am a nerd. Those 50 books added up to 18,389 pages, and were read at an average of 12 days per book. Yes, I know, when you multiply that back out it works out to 600 days, but there were several times I had multiple books that had been started, but not yet finished. This resulted in some outliers in the days/book column: [Well of Ascension](http://www.goodreads.com/review/show/300598952) took 166 days, from late March to early September. It probably only took me five or six days, beaded on the first and [third](http://www.goodreads.com/book/show/3362870-the-hero-of-ages "Hero of Ages") books in the series. I started it immediately after the first book, but I had been so disappointed with the nature of the first book, that I bogged down in the early plodding plotting of the second. [The Communist Manifesto](http://www.goodreads.com/review/show/441855022) was started on October 26th and completed on Dec 17, a total of 53 days. For 36 pages, mind you, giving me my lowest pages per day of .68. [Paradise Lost](http://www.goodreads.com/review/show/341582476) took me 81 days as I found the language and blank verse technically difficult.
+
+
+
+On the other hand, there were some books that I very nearly inhaled. My average pages per day was 86.04, not speed reading, but not exactly slow either. And then there was [American Gods](http://www.goodreads.com/review/show/269524053) (210.67), [We Need To Talk About Kevin](http://www.goodreads.com/review/show/416988048) (200), [The Hundred Thousand Kingdoms](http://www.goodreads.com/review/show/277727858) (142.34), [The Hero of Ages](http://www.goodreads.com/book/show/3362870-the-hero-of-ages) (124.67). I wonder if there is any co-relation between page velocity and the overall rating. The slow books received 3 stars, 2 stars, and 3 stars, while the fast books were 5 stars, 4 stars, 4 stars, and 3 stars. It's possible, but my cherry picked examples aren't definitive; I would need to run the kind of statistical analysis I don't know how to do.
+
+
+
+My rating system is fairly simple and meant to convey how well the book has worked as a piece of art to me. A successful work of art has to inspire some sort of emotional reaction from me that's deeper than cool or anger. It has to make me stop and muse, to think about what I am experiencing. It's entirely subjective of course. A book that I found completely absorbing and that spoke to me, The Magicians, a very good friend whose opinion I respect completely found quite average indeed. My ratings are:
+
+
+
+- 5 I will always own a copy of this as I think it is a very successful work of art;
+- 4 I lost or found myself in this book;
+- 3 This was a good book;
+- 2 This was a bad book;
+- 1 I only finished this book because my OCD compelled me to. I wish I hadn't started it;
+- 0 I don't review books I can't finish.
+
+
+
+This year I gave three 5 stars, sixteen 4 stars, twenty-six 3 stars, four 2 stars, and one 0 star. Turns out I do sometimes review books I couldn't finish:
+
+
+
+> I was already getting that old 2 star feeling when Dark Elves were mentioned, and then on page 13:
+>
+>> 'Haha, and without you, old fools, I would have nothing.' The
+>>smile was instantly gone, replaced by thin lips and a narrowed
+>> gaze.
+>> With a sudden burst of immense speed the mage drew his sword in a silver blur and furiously slammed the blade into Innel's chest."
+>
+> I expect this is the single worst book I will read this year. No
+> stars, and my Cino help the soul of Ben Galley.
+
+[My review of The Written, by Ben Galley](http://www.goodreads.com/review/show/365549348). He friended me afterwards, although he never actually spoke to me, so one of those 'fuck you' friendings. Meanwhile, I haven't written a book.
+
+In hindsight, setting a target of 50 books was a mistake. It resulted an environment that made reading a daily chore rather than - first and foremost - an enjoyable part of my day. Not always but often enough, reading became more about just finishing the book because I was getting behind track on the challenge, then actually reading the book for the sake of it. Paradise Lost and Beowulf suffered because of this; if not for the challenge I would have restarted Paradise Lost from the beginnig after I finished it, because I simply hadn't got my head around it the first time.
+
+I'll still do a challenge in 2013, but I am resetting my expectations. I'll set it at twelve books. These won't be the only twelve books I read in 2013, but they'll be ones that I expect to be challenging, the ones that will be a little hard to read because my brain isn't used to the form. Or the material, in the vase of Godel Escher Bach, which will totally be one of the twelve.
+
+
+[My book reviews](http://www.goodreads.com/review/list/1506188-gilmae).

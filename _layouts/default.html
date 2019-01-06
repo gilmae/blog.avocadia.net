@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8"> 
+    <link href="https://fonts.googleapis.com/css?family=Cabin|Raleway|Ubuntu|Work+Sans" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/main.css">
+    <link rel="stylesheet" type="text/css" href="/blog.css">
+    <title>{{ site.title }}</title>
+
+    <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+</head>
+
+<body>
+    <header>
+        <h1>
+            <a href="{{ site.url }}">{{ site.title }}</a>
+        </h1>
+        <nav role="navigation">
+            <ul>
+                <li><a href="{{site.url}}">Blog</a></li>
+                <li><a href="http://avocadia.net">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="blog">
+        {{ content }}
+    </section>
+    <aside id="about" class="vcard">
+            <hr />
+        <img src="https://www.gravatar.com/avatar/a70658986274b3080fa94d3a0e35a5ca?s=256" class="photo" />
+        <p>
+            I'm <span class="n"><span class="given-name">David</span> <span class="family-name">Edgar</span></span>.
+            <span class="note bio">I'm a
+                <em>technologist</em> and
+                <em>software engineer leader</em> in <span class="adr"><span class="locality">Sydney</span>, <span
+                        class="country-name">Australia</span></span>.</span>
+        </p>
+
+        <hr />
+
+        <ul>
+            <li>
+                <a href="/feed.xml">
+                    rss
+                </a>
+            </li>
+            <li>
+                <a href="https://pinboard.in/u:gilmae">
+                    pinboard
+                </a>
+            </li>
+            <li>
+                <a href="https://mastodon.social/@gilmae">
+                    mastodon
+                </a>
+            </li>
+            <li>
+                <a href="https://www.github.com/gilmae">
+                    github
+                </a>
+            </li>
+            <li>
+                <a href="https://www.goodreads.com/user/show/1506188-david">
+                    goodreads
+                </a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/edgardavid/">
+                    linkedin
+                </a>
+            </li>
+        </ul>
+    </aside>
+
+</body>
+
+</html>

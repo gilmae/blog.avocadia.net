@@ -1,0 +1,51 @@
+---
+layout: post
+title: "DevOps"
+date: 2014-03-02 11:06
+comments: true
+categories: 
+published: false
+---
+Fair warning, this is about to be a brain dump on facets of the software development process, and that clause alone should be enough to have you closing the tab.
+
+I did an interview a bit over a week ago, for a job at an agency. I heard about it from a friend who already works there, and I would have been working with another person I know, who is also friends with D. Both knitting ladies, these friends. Anyway, I didn't get the job, they didn't ask me back after the first round of interviews. The second friend was one of the people who interviewed me and was responsible for giving me feedback, and I was told I had been rejected on the basis of not having sufficient technical skills and not having experience with leading a team of developers in the modus operandi this agency operates under.
+
+I had been certain I wouldn't be asked back after the first person I met because I flubbed a number of questions. Questions that I actually thought I knew the answer to. Turns out, I couldn't even be a two minute expert on those topics. Disappointing, because despite the two friends suggesting the questions weren't really relevant to the position, I think they are relevant to all software developers. Those topics were Single Responsible Principle, Dependency Injection, and DevOps.
+
+I believe the best way to learn and understand something is to actually write it out in your own words, so here we are. 
+
+## Single Responsibility Principle
+
+Single Responsibility is the flip side of DRY, or Don't Repeat Yourself. DRY is the idea that you should only do something once because not only are you wasting your time doing something twice, thrice, or however more times you have done it after the first, but each repetition increases the odds of you creating divergent implementations. Particularly when you start having to apply changes.
+
+Single Responsibility is the notion that not only do you do things only once, each module should only have on thing to do. It's also expressed as having only one reason to change. The more things a module or class does, the more complicated it is and the more chance a change to one of those things has an impact on the others. So pick just one thing for a class to do and exile other other responsibilities to ther classes.
+
+The point of this is to reduce complexity in your modules. On a recent edition of [Accidental Tech Podcast](http://atp.fm/episodes/55-dave-who-stinks), John Siracusa said - somewhat flippantly - that computer programming is the most complex thing humans do, other than parenting. While he admitted that he was exaggerating for humorous effect in the next episode, the point is made, computer programming is a stupidly complex activity, and anything we can do to reduce complexity is worthwhile. I can admit to writing a class that had just three responsibilities, was well over 1000 lines long, and a nightmare to change. 
+
+On the other hand, at first blush it appears to conflict with one of the core OO principles, encapsulation. I've seen that expressed in a couple of places while I was refreshing my memory, and maybe it does. I don't quite understand how single responsibility can be reconciled with the ultimate expression of encapsulation, [Getters and Setters being considered harmful](http://www.javaworld.com/article/2073723/core-java/why-getter-and-setter-methods-are-evil.html). I have a creeping suspicion that largely object oriented design is less a solution to software complexity and more offsetting the variability of individual programmers. 
+
+## Dependency Inversion
+Dependency Inversion boils down to two dictums:
+
+1. High level classes should not depend on lower level classes, both should depend on abstractions. 
+2. Abstractions should not depend on details, details should depend on abstractions.
+
+The first dictum is simply stating that concrete classes should not depend on other concrete classes, that not doing so decouples them so they can be re-used or swapped for others. The example given is a Button that turns on a Lamp. If the Button class depends on the Lamp, by having a Lamp property it turns on, then the Button class is tightly coupled to the Lamp class and can't be re-used for, say, a Dishwasher class. If, on the other hand, it depended on the Switchable abstraction that can be implemented by Lamps and Fridges and Dishwashers, than that Button becomes reusable across many lower level classes, many Switchable models. 
+
+My problems are when trying to justify the second level of abstraction. Button shouldn't depend on Switchable, it should depend on an abstraction called Switch, which abstracts the functionality of the Button. Something like:
+
+    Button --> Switch --> Switchable <-- Lamp 
+
+* Button depends on Switch, by way of implementing it.
+* Lamp depends on Switchable, by way of implementing it.
+* Switch depends on Switchable, by way of having a Switchable property.
+
+I can justify the existance of the Switch abstraction as a contract that implicitly enforces 
+
+The second of those I have a more tenuous grasp on. I think what it means by 'details' is concrete classes, in which case it is meshes with the first, and is in fact the mirror image of the first point. And 
+
+DevOps is a set of processes designed to remove friction in the path software artefacts take to get to the production environment. In more conservative development shops, there will be a development team that builds the artefacts, a QA team that tests that requirements have been met, and some sort of support/operations team that is responsible for infrastructure and particularly what goes on that infrastructure. At Salmat digital that has meant that the development team has limited access to a Dev testing environment, very limited access to a QA/Staging environment, and almost none to the Production environment. The access is better for Development Managers, but still very controlled, with no one but the IT Support team permitted to make changes in the Production environment.
+
+Releasing code in this environment is slow because development and operations have the appearance of being set up in opposition. Developers 
+
+DevOps calls for more control/responsibility to be given to the development team. This is done with a single end in mind, to allow faster movement through the staging pipeline, to get releases into Production quickly. Flickr, for example, has a business requirement of 10+ deployments per day.
