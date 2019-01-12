@@ -42,7 +42,7 @@
 
 body {
     font-family: Work Sans, Helvetica Neue, sans-serif;
-    font-size: var(--font-size);
+    font-size: var(--font-size-x-large);
     line-height: 1.5;
     color: var(--colour-text-default);
     background: var(--colour-background);

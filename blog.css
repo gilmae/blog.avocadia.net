@@ -38,13 +38,14 @@ aside#about img {
     margin: 0 0 var(--spacing) calc(var(--grid-gap)/2);
 }
 
-@media only screen and (min-width:48em) {
+@media only screen and (min-device-width:48em) {
     body {
         display: grid;
         height: 100%;
         grid-template-columns: 1fr 2.25fr 1fr;
         grid-template-areas: ". . ." ". . .";
         grid-column-gap: var(--grid-gap);
+        font-size: var(--font-size);
     }
 
     body>header {
@@ -82,7 +83,7 @@ aside#about img {
 
 }
 
-@media only screen and (min-width: 64em) {
+@media only screen and (min-device-width: 64em) {
     body {
         margin: 0 1em;
         display: grid;
@@ -90,6 +91,7 @@ aside#about img {
         max-width: var(--max-width);
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
         grid-column-gap: var(--grid-gap);
+        font-size: var(--font-size);
     }
 
     body>header {
