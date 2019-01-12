@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/gilmae
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://blog.avocadia.net
+  * I am gilmae (https://keybase.io/gilmae) on keybase.
+  * I have a public key with fingerprint 0B64 45A4 7587 3262 50E9  10E6 DE8F 08C9 0F4E 6E64
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0b6445a47587326250e910e6de8f08c90f4e6e64",
+            "host": "keybase.io",
+            "key_id": "de8f08c90f4e6e64",
+            "uid": "64bc0fc12afa88824e050e6d78f53200",
+            "username": "gilmae"
+        },
+        "service": {
+            "hostname": "blog.avocadia.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412587514,
+    "expire_in": 157680000,
+    "prev": "b4cc78e58c6d38fc64b60238afbfd429e7f7b808aaf76caf7f3b86810601bca4",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.2
+Comment: https://keybase.io/crypto
+
+yML5AnicO8LLzMDFeK+f4yS/X14K4+kDX0oZQozif1UrJeWnVCpZVStlp4KptMy8
+9NSigqLMvBIlKyWDJDMTE9NEE3NTC3NjIzMjU4NUS0ODVLOUVIs0A4tkS4M0k1Sz
+VDMTJR2ljPxikA6gMUmJxal6mflAMSAnPjMFKIpFfSlYwswkKdkgLdnQKDEt0cLC
+wsgk1cAUZL65RZqpsZGBAUhhcWpRXmJuKlB1emZObmKqUq2OElCsLDM5FeRikMVQ
++aSc/HS9xLL85MSUzES9vNQSoPaCovyS/OT8HKB0RklJgRVId0llAUh5eWpSPNSg
++KTMvBSg14EaylKLijPz85SsDIEqk0syQSYbmhgaAYPA1NBERym1oiCzKDU+E6TC
+1NzMwgAIQNakloFcYJKcbG6RamqRbJZibJGWDPSfmYGRsUViWlJaiomRZap5mnmS
+hYFFYmKauVkykEgzTrIwszA0MDMwTEpOBAVMcWphXr6SFdCmksR0oJHFmel5iSWl
+RUB/HzoYw8LAyMXAxsoEijwGLk4BWJT6RPH/FRTcebY+woJ/Z02xanOR45cj5188
+UOdfMK3ylqbQBbZz/DoxX96WdAk+FLl2Nfbh410RSWa/Lv8v0mBR/jLLWrv2w7Fb
+Co/Kr87jn9qpGCuht3vm/6iMG6uXBT8q3XeXj9P8otFRges3D0WoMbrMK5l9x0nW
+UOeAqPdb99KqY/bCvzekbzqxeOWG3wyL63cfMHs1ed9PdrXzvdP9fqtkLJO1z3sW
+5OLaye+4Y59h2PoTi6fXl15R+7l9vVIyl5t9XGG1TIfyo6aZOlVPyrki5e++s+lN
+5liROCnvXvtm8WDuquN5N/kcpXInBjKL9cnu8P3hlFcueqGl6+V5Pt5Dk5/lXP4m
+ZHcr6vTsUvdViufVW1kunxPbU7i10GHalIq9yw5/0wgPme13/9dR8Q9ZXK0vtm3a
+Z/P4RZVnYOVS0ajYDBadyWvnJczquNydfaqjr/r5cUWtI6dOfbo0bbFwosKyu5/L
+rkgpF6ozcTEFGlq+veSlYe8dvaakMa06qMjl7/y3m3PcTu4JqXmrxum3fKLHi/QK
+s+T9zHk6IvkXPtT+rcmoXr9N63i2a3ikjodMvfS8C4rJbD0bwqK+qMzbWn1XsPVE
+oPkcV5+/BS5/6/iemDPtfMF6dZrH2Z+HTs8QrHz49mZ9TKj139cSDHIRrqfuLm56
+kcs79eDbec3r6rMWHE1zUL6weYfXHgfu2f+9/T9MffyxMKFrj91HAN4XlBI=
+=bkD+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gilmae
+
+==================================================================
+
