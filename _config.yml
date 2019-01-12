@@ -27,11 +27,20 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 
 timezone: Australia/Sydney
 permalink: /blog/:year/:month/:day/:title:output_ext
 encoding: utf-8
+
+paginate: 5
+
+include: ['.htaccess']
+
+webrick:
+  headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
