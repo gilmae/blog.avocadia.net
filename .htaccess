@@ -1,5 +1,5 @@
 Redirect 301 /journal.xml /atom.xml
-header set X-Clacks-Overhead "GNU Terry Pratchett"
+Header set X-Clacks-Overhead "GNU Terry Pratchett"
 
 ## SITE REFERRER BANNING
 RewriteCond %{HTTP_REFERER} get-free-social-traffic.com [NC,OR]
