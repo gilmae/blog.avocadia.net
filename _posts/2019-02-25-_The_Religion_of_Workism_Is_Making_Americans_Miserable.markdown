@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 The Religion of Workism Is Making Americans Miserable"
+title: "The Religion of Workism Is Making Americans Miserable"
 date: 2019-02-25 03:52
 comments: false
 categories: [work]

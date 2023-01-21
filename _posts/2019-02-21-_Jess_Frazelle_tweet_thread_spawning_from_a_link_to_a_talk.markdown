@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Jess Frazelle tweet thread spawning from a link to a talk"
+title: "Jess Frazelle tweet thread spawning from a link to a talk"
 date: 2019-02-21 01:16
 comments: false
 categories: [teams,management,leadership,hiring]

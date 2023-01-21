@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 How empathy and design thinking are integral to digital transformation"
+title: "How empathy and design thinking are integral to digital transformation"
 date: 2019-02-07 02:53
 comments: false
 categories: [design,transformation,agile]

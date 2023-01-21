@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Documenting your REST API"
+title: "Documenting your REST API"
 date: 2019-02-08 10:00
 comments: false
 categories: [web,api,documentation]

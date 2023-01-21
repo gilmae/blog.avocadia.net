@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 A Dead Djinn in Cairo | Tor.com"
+title: "A Dead Djinn in Cairo | Tor.com"
 date: 2019-02-03 10:33
 comments: false
 categories: [fiction]

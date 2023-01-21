@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 My future in tech | Shoehorn With Teeth"
+title: "My future in tech | Shoehorn With Teeth"
 date: 2019-03-01 09:55
 comments: false
 categories: [Self-improvement,work]

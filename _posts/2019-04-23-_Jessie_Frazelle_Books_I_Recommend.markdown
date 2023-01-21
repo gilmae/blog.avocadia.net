@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Jessie Frazelle: Books I Recommend"
+title: "Jessie Frazelle: Books I Recommend"
 date: 2019-04-23 06:36
 comments: false
 categories: [books]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 How to Win the Emotional Battle of Procrastination – Liberationist"
+title: "How to Win the Emotional Battle of Procrastination – Liberationist"
 date: 2019-01-21 05:35
 comments: false
 categories: [work,self]

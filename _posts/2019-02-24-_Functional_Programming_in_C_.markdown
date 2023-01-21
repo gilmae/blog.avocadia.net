@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Functional Programming in C#"
+title: "Functional Programming in C#"
 date: 2019-02-24 22:12
 comments: false
 categories: [coding,functional_programmning,dotnet]

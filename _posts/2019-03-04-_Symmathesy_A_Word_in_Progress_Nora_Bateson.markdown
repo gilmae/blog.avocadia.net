@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Symmathesy: A Word in Progress | Nora Bateson"
+title: "Symmathesy: A Word in Progress | Nora Bateson"
 date: 2019-03-04 00:45
 comments: false
 categories: [work,self-improvement,learning]

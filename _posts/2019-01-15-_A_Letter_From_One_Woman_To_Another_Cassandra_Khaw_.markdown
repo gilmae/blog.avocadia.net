@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 A Letter From One Woman To Another (Cassandra Khaw)"
+title: "A Letter From One Woman To Another (Cassandra Khaw)"
 date: 2019-01-15 09:53
 comments: false
 categories: [fiction,poem]

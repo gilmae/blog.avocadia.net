@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Symmathecist (n) – Jessica Kerr"
+title: "Symmathecist (n) – Jessica Kerr"
 date: 2019-01-10 02:51
 comments: false
 categories: [self,culture,work]

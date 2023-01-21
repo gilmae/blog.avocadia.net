@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Being Careful About Your Time "
+title: "Being Careful About Your Time "
 date: 2019-01-04 23:28
 comments: false
 categories: [productivity,time,self_management]

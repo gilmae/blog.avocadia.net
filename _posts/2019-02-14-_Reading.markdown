@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Reading"
+title: "Reading"
 date: 2019-02-14 03:21
 comments: false
 categories: [self-improvement,reading]

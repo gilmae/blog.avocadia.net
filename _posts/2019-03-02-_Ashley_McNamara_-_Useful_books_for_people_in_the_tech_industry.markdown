@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Ashley McNamara - Useful books for people in the tech industry"
+title: "Ashley McNamara - Useful books for people in the tech industry"
 date: 2019-03-02 10:50
 comments: false
 categories: [book,technology]

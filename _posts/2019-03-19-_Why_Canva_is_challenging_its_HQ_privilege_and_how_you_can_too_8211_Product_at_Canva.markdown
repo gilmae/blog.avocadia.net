@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 Why Canva is challenging its HQ privilege, and how you can too &#8211; Product at Canva"
+title: "Why Canva is challenging its HQ privilege, and how you can too &#8211; Product at Canva"
 date: 2019-03-19 05:26
 comments: false
 categories: [work]

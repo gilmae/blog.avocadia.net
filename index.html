@@ -5,24 +5,33 @@
 layout: index
 ---
 
-{% for post in paginator.posts %}
+{% assign postsByDay = 
+    site.posts | group_by_exp:"post", "post.date"  %}
+{% for day in postsByDay %}
+<h2 class="post_date" data-postdate="{{ day.name | date_to_xmlschema }}">
+        {{day.name | date_to_long_string: "ordinal"}}
+</h2>
+    {% for post in day.items %}
 <article>
-        <header>
-            <span class="post_date" data-postdate="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date_to_long_string: "ordinal" }}
-            </span>
-            <h3>
-                {% if post.bookmark %}
-                    <a href="{{ post.bookmark }} ">
-                {% else %}
-                    <a href="{{ post.url }}">
-                {% endif %}
-                {{ post.title }}</a>
-            </h3>
-        </header>
-        
-        {{ post.excerpt }}
+    <header>
 
-    </article>
-    {% endfor %}
-    <a href="{{paginator.previous_page_path}}"><< prev</a> | <a href="{{paginator.next_page_path}}">next >> </a>
+        <h3>
+            {% if post.bookmark %}
+            <a href="{{ post.bookmark }} ">
+            {% else %}
+            <a href="{{ post.url }}">
+            {% endif %}
+            {% if post.bookmark %}🔖 {% endif %}{{ post.title }}</a>
+        </h3>
+    </header>
+
+    {{ post.content }}
+
+    <footer>
+        <a href="{{ post.url }} ">{{ post.date |date: '%H:%m'}}</a>
+    </footer>
+</article>
+{% endfor %}
+{% endfor %}
+<a href="{{paginator.previous_page_path}}">
+    << prev</a> | <a href="{{paginator.next_page_path}}">next >> </a>

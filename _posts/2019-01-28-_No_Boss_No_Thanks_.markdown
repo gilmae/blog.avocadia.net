@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 No Boss? No Thanks!"
+title: "No Boss? No Thanks!"
 date: 2019-01-28 02:30
 comments: false
 categories: [work]

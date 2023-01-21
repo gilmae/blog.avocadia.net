@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🔖 10 Extremely Important Philosophical Questions from History"
+title: "10 Extremely Important Philosophical Questions from History"
 date: 2019-02-24 22:17
 comments: false
 categories: [philosophy]
