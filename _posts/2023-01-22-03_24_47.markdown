@@ -1,0 +1,8 @@
+---
+layout: post
+comments: false
+date: 2023-01-22 03:24
+categories: 
+permalink: /2023/01/22/03_24_47.html
+---
+If nothing else, cleaning up old files in S3 is helping me properly develop the muscle memory to spell “permanently”
