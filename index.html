@@ -21,7 +21,7 @@ layout: index
             {% else %}
             <a href="{{ post.url }}">
             {% endif %}
-            {% if post.bookmark %}🔖 {% endif %} {% if post.no_title == false %}{{ post.title }}{% endif %}</a>
+            {% if post.bookmark %}🔖 {% endif %} {% if post.no-title != true %}{{ post.title }}{% endif %}</a>
         </h3>
     </header>
 
