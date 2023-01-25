@@ -6,6 +6,6 @@ categories: anarchism
 permalink: /2023/01/24/23_01_05.html
 no-title: true
 ---
-FWIW I don't celebrate the day but I also won't support capitalism by working on the day.
+<p>FWIW I don't celebrate the day but I also won't support capitalism by working on the day.</p>
 
-https://www.linkedin.com/feed/update/urn:li:activity:7023146613418192896/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7023146613418192896%29
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7023146613418192896/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7023146613418192896%29">https://www.linkedin.com/feed/update/urn:li:activity:7023146613418192896/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7023146613418192896%29</a></p>
