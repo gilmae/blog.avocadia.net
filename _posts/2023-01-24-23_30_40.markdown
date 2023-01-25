@@ -1,0 +1,11 @@
+---
+layout: post
+comments: false
+date: 2023-01-24 23:30
+categories: 
+permalink: /2023/01/24/23_30_40.html
+no-title: true
+---
+My Meetp group, Sydney Technology Leaders, now* has a mastodon account. @sydtechleaders@aus.social
+
+* finally
