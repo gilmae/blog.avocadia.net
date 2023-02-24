@@ -15,9 +15,9 @@ layout: default
         {{ content }}
         {% if page.bookmark %}<a href="{{ page.bookmark }} " class="u-bookmark-of">🔖 bookmark</a>{% endif %}
 
-        <ul class="tags p-category">
+        <ul class="tags">
             {% for tag in page.categories %}
-               <li>{{tag}}</li>
+               <li class="p-category">{{tag}}</li>
             {% endfor %}
         </ul>
     </article>
