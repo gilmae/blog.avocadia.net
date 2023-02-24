@@ -2,21 +2,22 @@
 layout: default
 ---
 
-    <article>
+    <article class="h-entry e-content">
         <header>
-            <span class="post_date" data-postdate="{{ page.date | date_to_xmlschema }}">
+            <span class="post_date dt-published" data-postdate="{{ page.date | date_to_xmlschema }}">
                 {{ page.date | date_to_long_string: "ordinal" }}
             </span>
             <h3>
-                <a href="{{ post.url }}">{{ page.title }}</a>
+                <a href="{{ page.url }}" class="p-name">{{ page.title }}</a>
             </h3>
         </header>
         
         {{ content }}
+        {% if page.bookmark %}<a href="{{ page.bookmark }} " class="u-bookmark-of">🔖 bookmark</a>{% endif %}
 
-        <ul class="tags">
-            {% for tag in page.tags %}
-               <li><a href="#{{ tag | slugify }}"> {{tag}}</a></li>
+        <ul class="tags p-category">
+            {% for tag in page.categories %}
+               <li>{{tag}}</li>
             {% endfor %}
         </ul>
     </article>
