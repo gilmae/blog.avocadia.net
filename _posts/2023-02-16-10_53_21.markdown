@@ -1,0 +1,9 @@
+---
+layout: post
+comments: false
+date: 2023-02-16 10:53
+categories: 
+permalink: /2023/02/16/10_53_21.html
+no-title: true
+---
+<p>The speakers on Data topics tonight convinced me of something, the importance of keeping my metadata private. Or perhaps the folly of allowing data scientists to access it. I should stop Boosting and Liking on the fediverse, even, and keep it on my own site.</p>

@@ -1,0 +1,10 @@
+---
+layout: post
+comments: false
+date: 2023-02-16 07:49
+categories: 
+permalink: /2023/02/16/07_49_19.html
+no-title: true
+---
+<p>So glad @web_goddess found my good side at #sydtechleaders</p>
+<ul class="photos"><li><a href="https://d3t93cdvac8n1l.cloudfront.net:443/media/74d9a58e-539a-4fc7-b37f-fb2e34131b55"><img src="https://d3t93cdvac8n1l.cloudfront.net:443/media/74d9a58e-539a-4fc7-b37f-fb2e34131b55/480" alt="A photo of attendees at a meetup. I’m on the right, looking annoyed but actually just wondering what I screwed up on the AV" /></a></li></ul>

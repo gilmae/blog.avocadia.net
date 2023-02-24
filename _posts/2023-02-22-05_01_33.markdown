@@ -1,0 +1,11 @@
+---
+layout: post
+comments: false
+date: 2023-02-22 16:01
+categories: 
+permalink: /2023/02/22/16_01_33.html
+no-title: true
+---
+<p>"Have you got a spare USB key I can use?"</p>
+
+<p>"Yeah, I think so. Here's one, it's only got......all the source code for Legion Interactive SMS gateway? How the hell did I get this, I never worked for them?"</p>

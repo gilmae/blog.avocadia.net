@@ -1,0 +1,12 @@
+---
+layout: post
+comments: false
+date: 2023-02-05 02:31
+categories: 
+permalink: /2023/02/05/02_31_02.html
+no-title: true
+---
+<p>I’ve been in San Francisco since the 27th for an internal Product Engineering alignment thing. Did get a chance to tourist on the first weekend though.</p>
+
+<p>The rest of the week was in Oakland in a conference room all day. Fewer opportunities for photos.</p>
+<ul class="photos"><li><a href="https://d3t93cdvac8n1l.cloudfront.net:443/media/81cbe769-8174-4e51-a30f-5d2cfcbcb47e"><img src="https://d3t93cdvac8n1l.cloudfront.net:443/media/81cbe769-8174-4e51-a30f-5d2cfcbcb47e/480" alt="A picture of the Bay Bridge from Alcatraz Island, hidden in a bank of fog" /></a></li><li><a href="https://d3t93cdvac8n1l.cloudfront.net:443/media/320adf92-3174-4efe-b777-80fd04891b49"><img src="https://d3t93cdvac8n1l.cloudfront.net:443/media/320adf92-3174-4efe-b777-80fd04891b49/480" alt="A picture of San Francisco Bay, looking towards the Golden Gate, except it is a wall of fog" /></a></li><li><a href="https://d3t93cdvac8n1l.cloudfront.net:443/media/3ec2ff0d-2ef0-4487-bb39-34e01fe1b52c"><img src="https://d3t93cdvac8n1l.cloudfront.net:443/media/3ec2ff0d-2ef0-4487-bb39-34e01fe1b52c/480" alt="A selfie of me. In the background, the wiggly portion of Lombard Street" /></a></li><li><a href="https://d3t93cdvac8n1l.cloudfront.net:443/media/27b5a418-3815-4aeb-a0d8-12b3184fad75"><img src="https://d3t93cdvac8n1l.cloudfront.net:443/media/27b5a418-3815-4aeb-a0d8-12b3184fad75/480" alt="Some seals sunbaking near Pier 39 of Fisherman’s Wharf." /></a></li></ul>

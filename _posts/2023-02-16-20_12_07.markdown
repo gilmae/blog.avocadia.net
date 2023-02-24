@@ -1,0 +1,11 @@
+---
+layout: post
+comments: false
+date: 2023-02-16 20:12
+categories: 
+permalink: /2023/02/16/20_12_07.html
+no-title: true
+---
+<p>The question in standup yesterday was “What’s your favourite tree?” And I said Treebeard. No one got it.</p>
+
+<p>And then one of the team said they thought I would say something like binary search tree and I’m still mad that I didn’t think of that.</p>
