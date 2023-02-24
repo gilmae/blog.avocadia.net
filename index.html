@@ -27,9 +27,9 @@ layout: index
     
     {{ post.content }}
 
-    <ul class="tags p-category">
+    <ul class="tags">
         {% for tag in post.categories %}
-           <li>{{tag}}</li>
+           <li class="p-category">{{tag}}</li>
         {% endfor %}
     </ul>
     <footer>
