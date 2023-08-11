@@ -6,7 +6,7 @@ layout: index
 ---
 
 {% assign postsByDay = 
-    site.posts | group_by_exp:"post", "post.date | date: '%Y-%m-%d'"   %}
+    paginator.posts | group_by_exp:"post", "post.date | date: '%Y-%m-%d'"   %}
 {% for day in postsByDay %}
 <h2 class="post_date" data-postdate="{{ day.name | date_to_xmlschema }}">
         {{day.name | date_to_long_string: "ordinal"}}

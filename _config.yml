@@ -34,7 +34,7 @@ timezone: Australia/Sydney
 permalink: /blog/:year/:month/:day/:title:output_ext
 encoding: utf-8
 
-paginate: 5
+paginate: 10
 
 include: ['.htaccess']
 
